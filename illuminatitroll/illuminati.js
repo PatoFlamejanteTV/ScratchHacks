@@ -8,7 +8,7 @@ var audioElement = document.createElement("audio");
 var audioElement = document.createElement("audio");
 
 // Define somethings
-audioElement.src = "https://media1.vocaroo.com/mp3/1nrV7AAaiIz9";
+audioElement.src = "https://raw.githubusercontent.com/Windowszin/ScratchHacks/main/illuminatitroll/1.mp3?token=GHSAT0AAAAAACFV226X2G44XXRR2OPVRZSSZGX2KQA";
 audioElement.controls = true;
 document.body.appendChild(audioElement);
 
