@@ -66,7 +66,7 @@ We welcome contributions from the community! If you have an idea for a new users
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the contents of this repository, as long as you provide appropriate attribution and include the original license in your derivative works.
+This repository is licensed under the [Mozilla Public License 2.0](LICENSE), which means you are free to use, modify, and distribute the contents of this repository, as long as you provide appropriate attribution and include the original license in your derivative works.
 
 ---
 
