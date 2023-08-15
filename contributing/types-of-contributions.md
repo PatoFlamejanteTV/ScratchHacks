@@ -63,4 +63,4 @@ You can also support the project financially by donating to cover hosting costs,
 
 ## Getting Started
 
-To contribute, follow the steps outlined in the [Contributing Guide](/CONTRIBUTING.md). Choose the type of contribution that best aligns with your skills and interests. Remember, every contribution, no matter how small, helps make SpinningWeb better for everyone. Thank you for being a part of our community!
+To contribute, follow the steps outlined in the [Contributing.md](/CONTRIBUTING.md). Choose the type of contribution that best aligns with your skills and interests. Remember, every contribution, no matter how small, helps make SpinningWeb better for everyone. Thank you for being a part of our community!
