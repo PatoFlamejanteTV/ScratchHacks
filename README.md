@@ -28,6 +28,8 @@ ScratchHacks is a collection of tools, scripts, and customizations designed to i
 
 - **Plugins**: Extend Scratch's capabilities with our plugins. These plugins integrate seamlessly with Scratch and introduce new ways to create.
 
+- **Others**: Random scripts.
+
 ## Contents
 
 This repository is organized into the following directories:
@@ -41,6 +43,8 @@ This repository is organized into the following directories:
 - `addons/`: Discover addons designed to complement and enhance Scratch's existing tools.
 
 - `plugins/`: Check out plugins that introduce new features and capabilities to the Scratch platform.
+
+- `others/`: Check out random stuff!
 
 ## Installation
 
