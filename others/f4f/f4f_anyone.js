@@ -6,7 +6,7 @@ await fetch("https://scratch.mit.edu/site-api/comments/user/" + scratchusername 
         "Accept": "text/html, */*; q=0.01",
         "Accept-Language": "pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3",
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "X-CSRFToken": "7GFZ1OesqDPBDMmrS0LIp5ojiFZ90YMP",
+        "X-CSRFToken": "INSERT TOKEN HERE",
         "X-Requested-With": "XMLHttpRequest",
         "Sec-Fetch-Dest": "empty",
         "Sec-Fetch-Mode": "cors",
